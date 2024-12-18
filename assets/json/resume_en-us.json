@@ -22,6 +22,28 @@
       }
     ]
   },
+    "education": [
+    {
+      "institution": "Universitas Trunojoyo Madura",
+      "location": "Bangkalan, Indonesia",
+      "url": "http://teknik.trunojoyo.ac.id/",
+      "area": "Fakultas Teknik",
+      "studyType": "S1 Sarjana Komputer (S.Kom.)",
+      "startDate": "2008-08",
+      "endDate": "2015-08",
+      "score": "3.03",
+      "courses": ["Computer Science/Informatics (Teknik Informatika)"]
+    }
+  ],
+  "publications": [
+    {
+      "name": "RANCANG BANGUN MANAJEMEN KONTEN PADA PEMBELAJARAN PENERAPAN JARINGAN KOMPUTER DESIGN ON LEARNING CONTENT MANAGEMENT APPLICATION OF COMPUTER NETWORK",
+      "publisher": "Universitas Trunojoyo Madura",
+      "releaseDate": "2015-07-29",
+      "url": "https://library.trunojoyo.ac.id/elib/detil.php?id=7576&q=haertanto",
+      "summary": ""
+    }
+  ],
   "work": [
                 {
       "name": "Self Employed",
@@ -77,7 +99,7 @@
       "name": "Bumi Madura",
       "position": "IT Staff",
       "location": "Bangkalan, Indonesia",
-      "url": "https://www.instagram.com/explore/locations/400239548/bumi-madura/",
+      "url": "https://www.instagram.com/bumi.madura/",
       "startDate": "2017-10",
       "endDate": "2020-07",
       "summary": "As the primary hardware technician, I am responsible for the day-to-day maintenance of our server infrastructure, including servers, routers, modems, and printers. My duties involve performing routine inspections, troubleshooting network issues, and ensuring optimal performance of all hardware components.",
@@ -94,6 +116,28 @@
       "highlights": ["Event Planning and Organization","Event Promotion","Event Execution","Event Evaluation"]
     }
   ],
+    "references": [
+    {
+      "name": "Sulaiman Efendi S.P.",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Haertanto is a highly motivated and results-oriented Marketing Event Staff member in Tretan Motor Kamal. His expertise in event planning, marketing strategy, customer relationship management has been instrumental in increasing event attendance and generating leads. He is a creative and innovative thinker who consistently exceeds expectations."
+    },
+    {
+      "name": "Wirantono Adiputra S.T.",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Haertanto's combination of technical skills and dedication has been invaluable to Bumi Madura. His development of the Jokotole Collection website is just one example of his many contributions to my company."
+    },
+    {
+      "name": "Windy Julianto S.Kom.",
+      "icon": "fa-solid fa-laptop",
+      "reference": "As a dedicated IT Project Manager at Abdi Komputer, Haertanto combines a deep understanding of IT Services and Web Development with exceptional project management skills. His comprehensive approach ensures that projects are delivered seamlessly, meeting both client and organizational objectives."
+    },
+    {
+      "name": "Irfan Dzulkarnain A S.Kom.",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Speaking as a facilitator at PUPR myself, I can confirm that Haertanto is a highly skilled and dedicated Field Facilitator in the construction and infrastructure sector. His expertise in project management, community engagement, and technical assistance has been instrumental in the successful implementation of BSPS infrastructure projects. He is a results-oriented individual who is committed to ensuring that projects are completed on time and within budget."
+    }
+  ],
   "volunteer": [
     {
       "organization": "UKMF LPM Saint",
@@ -106,28 +150,19 @@
       "highlights": ["Coordination","Administration","Program Implementation","External Relations"]
     }
   ],
-  "education": [
+  "languages": [
     {
-      "institution": "Universitas Trunojoyo Madura",
-      "location": "Bangkalan, Indonesia",
-      "url": "http://teknik.trunojoyo.ac.id/",
-      "area": "Fakultas Teknik",
-      "studyType": "S1 Sarjana Komputer (S.Kom.)",
-      "startDate": "2008-08",
-      "endDate": "2015-08",
-      "score": "3.03",
-      "courses": ["Computer Science/Informatics (Teknik Informatika)"]
+      "language": "Indonesia",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
-  "publications": [
-    {
-      "name": "RANCANG BANGUN MANAJEMEN KONTEN PADA PEMBELAJARAN PENERAPAN JARINGAN KOMPUTER DESIGN ON LEARNING CONTENT MANAGEMENT APPLICATION OF COMPUTER NETWORK",
-      "publisher": "Universitas Trunojoyo Madura",
-      "releaseDate": "2015-07-29",
-      "url": "https://haertanto.github.io/publications/",
-      "summary": ""
-    }
-  ],
+
   "skills": [
     {
       "name": "Advanced",
@@ -189,40 +224,7 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "Indonesia",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Sulaiman Efendi S.P.",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Haertanto is a highly motivated and results-oriented Marketing Event Staff member in Tretan Motor Kamal. His expertise in event planning, marketing strategy, customer relationship management has been instrumental in increasing event attendance and generating leads. He is a creative and innovative thinker who consistently exceeds expectations."
-    },
-    {
-      "name": "Wirantono Adiputra S.T.",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Haertanto's combination of technical skills and dedication has been invaluable to Bumi Madura. His development of the Jokotole Collection website is just one example of his many contributions to my company."
-    },
-    {
-      "name": "Windy Julianto S.Kom.",
-      "icon": "fa-solid fa-laptop",
-      "reference": "As a dedicated IT Project Manager at Abdi Komputer, Haertanto combines a deep understanding of IT Services and Web Development with exceptional project management skills. His comprehensive approach ensures that projects are delivered seamlessly, meeting both client and organizational objectives."
-    },
-    {
-      "name": "Irfan Dzulkarnain A S.Kom.",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Speaking as a facilitator at PUPR myself, I can confirm that Haertanto is a highly skilled and dedicated Field Facilitator in the construction and infrastructure sector. His expertise in project management, community engagement, and technical assistance has been instrumental in the successful implementation of BSPS infrastructure projects. He is a results-oriented individual who is committed to ensuring that projects are completed on time and within budget."
-    }
-  ],
+
   "projects": [
     {
       "name": "Jokotole Collection Website",
