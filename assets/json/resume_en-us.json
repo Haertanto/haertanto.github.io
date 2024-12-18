@@ -203,16 +203,24 @@
   ],
   "references": [
     {
+      "name": "Sulaiman Efendi S.P.",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Haertanto is a highly motivated and results-oriented Marketing Event Staff member in the automotive industry. His expertise in event planning, marketing strategy, customer relationship management has been instrumental in increasing event attendance, generating leads, and improving brand awareness]. Haertanto is a creative and innovative thinker who consistently exceeds expectations."
+    },
+    {
       "name": "Wirantono Adiputra S.T.",
-      "url": "https://www.instagram.com/wira.bumimadura/",
       "icon": "fa-solid fa-laptop",
       "reference": "Haertanto's combination of technical skills and dedication has been invaluable to Bumi Madura. His development of the Jokotole Collection website is just one example of his many contributions to the company."
     },
     {
       "name": "Windy Julianto S.Kom.",
-      "url": "https://www.instagram.com/windyjulianto/",
       "icon": "fa-solid fa-laptop",
       "reference": "As a dedicated IT Project Manager at Abdi Komputer, Haertanto combines a deep understanding of IT services and web development with exceptional project management skills. His comprehensive approach ensures that projects are delivered seamlessly, meeting both client and organizational objectives."
+    },
+    {
+      "name": "Irfan Dzulkarnain A S.Kom.",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Speaking as a facilitator myself, I can confirm that Haertanto is a highly skilled and dedicated Field Facilitator in the construction and infrastructure sector. His expertise in project management, community engagement, and technical assistance has been instrumental in the successful implementation of BSPS infrastructure projects. He is a results-oriented individual who is committed to ensuring that projects are completed on time and within budget."
     }
   ],
   "projects": [
