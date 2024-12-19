@@ -1,103 +1,101 @@
-archive_category: um arquivo de postagens desta categoria
-archive_tag: um arquivo de postagens com este marcador
-archive_year: um arquivo de postagens deste ano
+archive_category: kategori arsip
+archive_tag: tag arsip
+archive_year: tahun arsip
 blog:
   navigation_title: blog
 categories:
-  fun: diversão
-  work: trabalho
+  fun: suka-suka
+  work: pekerjaan
 citation:
   bibtex: "ou como uma citação em BibTeX:"
-  introduction: "Se você achou isso útil, por favor cite como:"
-contact_note: Você pode até adicionar uma pequena observação sobre qual dessas é a melhor maneira de entrar em contato com você.
+  introduction: "Pengenalan:"
+contact_note: Catatan kontak
 cv:
-  address: Endereço
-  area: Área
-  awarder: Premiado por
-  awards: Prêmios
-  basics: Informações gerais
-  certificates: Certificados
-  city: Cidade
-  countryCode: Código do país
-  courses: Cursos
-  date: Data
-  education: Educação
+  address: Alamat
+  area: Daerah
+  awarder: Penghargaan dari
+  awards: Penghargaan
+  basics: Info
+  certificates: Sertifikat
+  city: Kota
+  countryCode: Kode Negara
+  courses: Pelatihan
+  date: Tanggal
+  education: Pendidikan
   email: Email
-  endDate: Data de término
-  fluency: Fluência
-  highlights: Destaques
-  image: Imagem
-  institution: Instituição
-  interests: Interesses
-  issuer: Emissor
-  keywords: Palavras chave
-  label: Título
-  language: Idioma
-  languages: Idiomas
-  level: Nível
-  location: Localização
+  endDate: Sampai tanggal
+  fluency: Lancar
+  highlights: Catatan
+  image: Gambar
+  institution: Institusi
+  interests: Tertarik pada
+  issuer: Dikeluarkan oleh
+  keywords: Kata kunci
+  label: Pekerjaan
+  language: Bahasa
+  languages: Bahasa
+  level: Tingkat
+  location: Lokalisasi
   name: Nama
-  network: Rede
-  organization: Organização
-  phone: Telefone
+  network: Jaringan
+  organization: Organisasi
+  phone: Telepon
   position: Posição
-  postalCode: Código postal
-  profiles: Perfis
-  projects: Projetos
-  publications: Publicações
-  publisher: Editora
-  reference: Referência
-  references: Referências
-  region: Região
-  releaseDate: Data de lançamento
-  score: Pontuação
-  skills: Habilidades
-  startDate: Data de início
-  studyType: Tipo de estudo
-  summary: Resumo
-  table_of_contents: Tópicos
-  title: Título
+  postalCode: Kode Pos
+  profiles: Profil
+  projects: Proyek
+  publications: Publikasi
+  publisher: Publikasi oleh
+  reference: Referensi
+  references: Referensi
+  region: Wilayah
+  releaseDate: Tanggal diluncurkan
+  score: Skor
+  skills: Skill
+  startDate: Tanggal mulai
+  studyType: Jenis pembelajaran
+  summary: Resume
+  table_of_contents: Daftar Isi
+  title: Judul
   url: Url
-  username: Usuário
-  volunteer: Voluntário
-  work: Trabalho
+  username: Username
+  volunteer: Relawan di
+  work: Pekerjaan
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-  Desenvolvido em <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> com o tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
-  Hospedado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-latest_posts: últimas postagens
+
+latest_posts: Post terakhir
 months:
   long:
-    january: Janeiro
-    february: Fevereiro
-    march: Março
+    january: Januari
+    february: Februari
+    march: Maret
     april: Abril
-    may: Maio
-    june: Junho
-    july: Julho
-    august: Agosto
-    september: Setembro
-    october: Outubro
-    november: Novembro
-    december: Dezembro
+    may: Mei
+    june: Juni
+    july: Juli
+    august: Agustus
+    september: Setember
+    october: Oktober
+    november: November
+    december: Desember
   short:
     january: Jan
-    february: Fev
+    february: Feb
     march: Mar
-    april: Abr
-    may: Mai
+    april: Apr
+    may: Mei
     june: Jun
     july: Jul
-    august: Ago
-    september: Set
-    october: Out
+    august: Agu
+    september: Sep
+    october: Okt
     november: Nov
-    december: Dez
-news: novidades
+    december: Des
+news: berita
 newsletter:
-  back: Voltar
+  back: kembali
   error: "Oops! Algo deu errado, por favor tente novamente."
-  subscribe: inscrever-se
+  subscribe: berlangganan
   subscribed: "Você se inscreveu com sucesso na newsletter."
   subscribe_to_receive: "Inscreva-se para ser notificado de futuros artigos:"
   too_many_signups: "Muitas inscrições, por favor tente novamente em breve"
