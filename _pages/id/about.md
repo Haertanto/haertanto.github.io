@@ -7,7 +7,7 @@ subtitle: IT Consultant . Programmer . Tutor
 
 profile:
   align: right
-  image: haertanto_pic.jpg
+  image: haertanto_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Lumajang, East Java, Indonesia</p>
