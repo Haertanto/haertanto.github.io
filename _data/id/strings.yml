@@ -28,7 +28,7 @@ cv:
   highlights: Catatan
   image: Gambar
   institution: Institusi
-  interests: Tertarik pada
+  interests: Tertarik
   issuer: Dikeluarkan oleh
   keywords: Kata kunci
   label: Pekerjaan
@@ -59,7 +59,7 @@ cv:
   title: Judul
   url: Url
   username: Username
-  volunteer: Relawan di
+  volunteer: Relawan
   work: Pekerjaan
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
 
@@ -94,11 +94,11 @@ months:
 news: berita
 newsletter:
   back: kembali
-  error: "Oops! Algo deu errado, por favor tente novamente."
+  error: "Oops! Sepertinya ada yang salah, silahkan coba lagi."
   subscribe: berlangganan
-  subscribed: "Você se inscreveu com sucesso na newsletter."
-  subscribe_to_receive: "Inscreva-se para ser notificado de futuros artigos:"
-  too_many_signups: "Muitas inscrições, por favor tente novamente em breve"
+  subscribed: "Kamu sudah berhasil berlangganan informasi terbaru."
+  subscribe_to_receive: "Silahkan berlangganan untuk mendapatkan artikel terbaru:"
+  too_many_signups: "Pendaftaran terlalu banyak, coba beberapa saat lagi"
   wait: "Por favor, aguarde..."
 no_news: Nenhuma novidade no momento...
 pagination:
