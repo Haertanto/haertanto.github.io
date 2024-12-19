@@ -3,8 +3,8 @@ page_id: blog
 layout: default
 permalink: /blog/
 title: blog
-blog_name: Blog saya dalam Bahasa Indonesia
-description: Blog Personal
+blog_name: Blog biasa aja
+description: Ini blog saya
 nav: true
 nav_order: 1
 pagination:
