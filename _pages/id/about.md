@@ -1,27 +1,25 @@
 ---
 page_id: about
 layout: about
-title: sobre
+title: saya
 permalink: /
-subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
+subtitle: IT Consultant . Programmer . Tutor 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: haertanto_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 seu telefone do trabalho</p>
-    <p>123 seu endereço</p>
-    <p>Sua cidade, estado 12345</p>
+    <p>Lumajang, East Java, Indonesia</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Escreva sua biografia aqui. Diga ao mundo sobre você. Adicione o link para o seu [subreddit](http://reddit.com) favorito. Você pode colocar uma foto também. O código já está dentro, basta nomear sua foto como `prof_pic.jpg` e colocá-la na pasta `img/`.
+Sebagai seorang profesional yang memiliki pengalaman dalam bidang `Teknologi Informasi`, `Pemasaran`, dan `Pendidikan`, saya telah mengasah beragam keterampilan teknis dan interpersonal. Riwayat karier saya pernah berperan sebagai `Manajer Proyek IT`, `Pengembang Web`, dan `Instruktur Pemrograman`. Keahlian saya dalam menerjemahkan konsep teknis yang kompleks menjadi materi yang mudah bagi berbagai kalangan telah terbukti efektif dalam lingkungan pendidikan.
 
-Coloque seu endereço / caixa postal / outras informações logo abaixo da sua foto. Você também pode desabilitar qualquer um desses elementos editando a propriedade `profile` do cabeçalho YAML do seu `_pages/about.md`. Edite `_bibliography/papers.bib` e o Jekyll renderizará sua [página de publicações](/multi-language-al-folio/publications/) automaticamente.
+Minat saya yang mendalam pada persimpangan antara bidang teknologi dan bisnis, khususnya dalam penerapan teknologi baru seperti `Keamanan Siber`, `Ilmu Statistika`, `Kecerdasan Buatan`, dan `Komputasi Awan`. Dengan latar belakang yang kuat dalam pemrograman dan pendekatan yang inovatif, saya berambisi untuk berkontribusi dalam mendorong transformasi digital pada organisasi yang membutuhkan.
 
 Adicione links para seus perfis de mídias sociais também. Este tema está configurado para usar [Font Awesome icons](https://fontawesome.com/) e [Academicons](https://jpswalsh.github.io/academicons/), como os visto abaixo. Adicione seu Facebook, Twitter, LinkedIn, Google Scholar ou simplesmente desative todos eles.
