@@ -3,8 +3,8 @@ page_id: blog
 layout: default
 permalink: /blog/
 title: blog
-blog_name: My Personal blog in English
-description: Personal Blog
+blog_name: Just ordinary blog
+description: This is my blog
 nav: true
 nav_order: 1
 pagination:
