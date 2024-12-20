@@ -12,7 +12,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: logo_atenge.png
-    content: p_atenge.md
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Jl. Siliwangi No.144, Sukasari, Kec. Bogor Tim</p>
