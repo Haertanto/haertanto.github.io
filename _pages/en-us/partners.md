@@ -1,8 +1,8 @@
 ---
-page_id: profiles
-layout: profiles
-permalink: /people/
-title: people
+page_id: partners
+layout: partners
+permalink: /partners/
+title: partners
 description: members of the lab or group
 nav: true
 nav_order: 7
