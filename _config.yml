@@ -187,6 +187,8 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/en-us/about_einstein.md
+  - _pages/en-us/p_atenge.md
+  - _pages/en-us/p_sydeco.md
   - _pages/id/about_einstein.md
   - purgecss.config.js
   - README.md
