@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: saya
 permalink: /
-subtitle: IT Consultant . Programmer . Tutor 
+subtitle: IT Consultant . Programmer . Tutor . Digital Marketer 
 
 profile:
   align: right
@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Sebagai seorang profesional yang memiliki pengalaman dalam bidang `Teknologi Informasi`, `Pemasaran`, dan `Pendidikan`, saya telah mengasah beragam keterampilan teknis dan interpersonal. Riwayat karier saya pernah berperan sebagai `Manajer Proyek IT`, `Pengembang Web`, dan `Instruktur Pemrograman`. Keahlian saya dalam menerjemahkan konsep teknis yang kompleks menjadi materi yang mudah bagi berbagai kalangan telah terbukti efektif dalam lingkungan pendidikan.
+Sebagai seorang profesional yang memiliki pengalaman dalam bidang `IT`, `Pemasaran`, dan `Pendidikan`, saya telah mengasah beragam keterampilan teknis dan interpersonal. Riwayat karier saya pernah berperan sebagai `Manajer Proyek IT`, `Software Developer`, dan `Instruktur Pemrograman`. Keahlian saya dalam menerjemahkan konsep teknis yang kompleks menjadi materi yang mudah bagi berbagai kalangan telah terbukti efektif dalam lingkungan pendidikan.
 
-Minat saya yang mendalam pada persimpangan antara bidang teknologi dan bisnis, khususnya dalam penerapan teknologi baru seperti `Keamanan Siber`, `Ilmu Statistika`, `Kecerdasan Buatan`, dan `Komputasi Awan`. Dengan latar belakang yang kuat dalam pemrograman dan pendekatan yang inovatif, saya berambisi untuk berkontribusi dalam mendorong transformasi digital pada organisasi yang membutuhkan.
+Minat saya begitu mendalam pada persimpangan antara bidang teknologi dan bisnis, khususnya dalam penerapan teknologi baru seperti `Cyber Security`, `Data Science`, `Artificial Intelligence`, dan `Cloud Computing`. Dengan latar belakang yang kuat dalam pemrograman dan pendekatan yang inovatif, saya berambisi untuk berkontribusi dalam mendorong transformasi digital pada organisasi dan perusahaan yang membutuhkan.
