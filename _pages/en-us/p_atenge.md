@@ -1,1 +1,0 @@
-PT. Atenge Tech Indonesia is a Bogor-based retail company that specializes in selling portable fans and vacuum cleaners. We offer high-quality products to provide comfort and cleanliness to our customers.
