@@ -4,28 +4,28 @@ layout: page
 <div class="post">
   <article>
     {% if page.partners %}
-      {% for partner in page.partners %}
+      {% for partners in page.partners %}
         <hr>
-        <div class="partner float-{% if partner.align == 'left' %}left{% else %}right{% endif %}">
-          {% if partner.image %}
-            {% assign partner_image_path = partner.image | prepend: 'assets/img/' %}
-            {% if partner.image_circular %}
-              {% assign partner_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+        <div class="partners float-{% if partners.align == 'left' %}left{% else %}right{% endif %}">
+          {% if partners.image %}
+            {% assign partners_image_path = partners.image | prepend: 'assets/img/' %}
+            {% if partners.image_circular %}
+              {% assign partners_image_class = 'img-fluid z-depth-1 rounded-circle' %}
             {% else %}
-              {% assign partner_image_class = 'img-fluid z-depth-1 rounded' %}
+              {% assign partners_image_class = 'img-fluid z-depth-1 rounded' %}
             {% endif %}
             {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-            {% include figure.liquid loading="eager" path=partner_image_path class=partner_image_class sizes=sizes alt=partner.image %}
+            {% include figure.liquid loading="eager" path=partners_image_path class=partners_image_class sizes=sizes alt=partners.image %}
           {% endif %}
-          {% if partner.more_info %}
-            <div class="more-info">{{ partner.more_info }}</div>
+          {% if partners.more_info %}
+            <div class="more-info">{{ partners.more_info }}</div>
           {% endif %}
         </div>
 
         <div class="clearfix">
-          {% if partner.content %}
-            {% capture partner_content %}{% include_relative {{ partner.content }} %}{% endcapture %}
-            {{ partner_content | markdownify }}
+          {% if partners.content %}
+            {% capture partners_content %}{% include_relative {{ partners.content }} %}{% endcapture %}
+            {{ partners_content | markdownify }}
           {% else %}
             {{ content }}
           {% endif %}
