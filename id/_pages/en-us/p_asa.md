@@ -1,1 +1,1 @@
-**ASA Study Center** offers next-level `English online courses` with live teachers. Their courses are fun, interactive, and motivational. For students and teachers they offer IELTS, TOEFL and TOEIC preparation courses and have their own certification program.
+**ASA Study Center** offers next-level `English online courses` with live teachers. Their courses are fun, interactive, and motivational. For students and teachers they offer IELTS, TOEFL and TOEIC preparation courses and have their own certification program. *Batam, Indonesia*.
