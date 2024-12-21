@@ -5,7 +5,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
+cv_pdf: cv_Haertanto_id.pdf
 description: #ini.
 toc:
   sidebar: left
