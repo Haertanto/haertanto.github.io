@@ -12,17 +12,16 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: logo_atenge.png
-    content: about_einstein.md
+    content: p_atenge.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Jl. Siliwangi No.144, Sukasari, Kec. Bogor Tim</p>
       <p>Kota Bogor, Jawa Barat 16142</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: logo_sydeco.jpeg
+    content: p_sydeco.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Mlandangan, Jl. Gabus Raya No.21, Kec. Ngaglik</p>
+      <p>Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581</p>
 ---
