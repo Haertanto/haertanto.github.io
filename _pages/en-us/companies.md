@@ -33,4 +33,11 @@ companies:
     content: p_kahe.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p> </p>
+  - align: right
+    image: logo_trawlbens.png
+    content: p_trawlbens.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> </p>
 ---
