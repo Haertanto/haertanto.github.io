@@ -1,6 +1,6 @@
 ---
-page_id: partners
-layout: partners
+page_id: companies
+layout: companies
 permalink: /partners/
 title: partners
 description: Awesome Company
