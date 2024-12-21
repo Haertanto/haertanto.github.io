@@ -6,7 +6,7 @@
     "email": "hertz.dhuar@gmail.com",
     "phone": "(62) 85230703508",
     "url": "https://www.linkedin.com/in/haertanto/",
-    "summary": "As a highly adaptable professional, I have cultivated a diverse skill set encompassing IT, Marketing, and Education. My experience spans roles such as IT Project Manager, Web Developer, and Programming Instructor. I am passionate about exploring new technologies and continuously expanding my knowledge in areas including Data Science, AI, Cybersecurity, and Cloud Computing. I am eager to contribute my technical expertise and strong problem-solving abilities to a challenging role where I can drive innovation and achieve business objectives.",
+    "summary": "Sebagai seorang profesional yang cepat beradaptasi, saya telah mengembangkan beragam keahlian dalam bidang IT, Marketing, dan Pendidikan. Pengalaman kerja saya yaitu Manajer Proyek IT, Web Developer, dan Instruktur Pemrograman. Saya sangat bersemangat untuk mengeksplorasi teknologi baru dan terus memperluas pengetahuan saya di bidang-bidang seperti Data Science, AI, Cyber Security, dan Cloud Komputing. Saya sangat ingin berkontribusi menggunakan keahlian teknis dan kemampuan pemecahan masalah saya. Khususnya untuk peran yang menantang di mana saya dapat mendorong terjadinya inovasi dan mencapai tujuan bisnis tertentu.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -46,14 +46,14 @@
   ],
   "work": [
                     {
-      "name": "Several **Awesome** Company",
+      "name": "Beberapa Perusahaan **Keren**",
       "position": "Digital Marketing Specialist",
       "location": "Lumajang, Indonesia",
       "url": "https://haertanto.github.io/partners/",
       "startDate": "2024-12",
       "endDate": "now",
-      "summary": "Responsible for develop and execute comprehensive digital marketing strategies to drive brand awareness, generate leads, and increase sales.",
-      "highlights": ["in-depth market research","Optimize website content","Manage paid advertising campaigns","Create engaging content"]
+      "summary": "Bertanggung jawab membuat dan mengeksekusi strategi digital marketing untuk membangun kesadaran merek, menghasilkan calon pelanggan, dan meningkatkan penjualan produk.",
+      "highlights": ["Pendalaman riset pasar","Optimasi konten Website","Manajemen pengiklanan berbayar","Membuat konten menarik"]
     },
                 {
       "name": "Self Employed",
@@ -62,8 +62,8 @@
       "url": "https://www.linkedin.com/in/haertanto/",
       "startDate": "2013-08",
       "endDate": "now",
-      "summary": "Responsible for the entire lifecycle of a website app, from conception to completion. Able to work independently, manage time effectively, and deliver high-quality work for clients.",
-      "highlights": ["Web Development","Programming","Report Writing"]
+      "summary": "Bertanggung jawab atas pembuatan sebuah aplikasi web, dari tahap konsep hingga penyelesaian. Mampu bekerja mandiri, mengelola waktu secara efektif, dan memberikan hasil kerja berkualitas tinggi untuk klien.",
+      "highlights": ["Pembuatan aplikasi Web","Pemrograman","Pembuatan Laporan"]
     },
               {
       "name": "LBB Pointer",
@@ -72,8 +72,8 @@
       "url": "https://www.instagram.com/lbbpointer/",
       "startDate": "2024-10",
       "endDate": "now",
-      "summary": "Private programming tutor. Acts as a personal mentor, guiding students to master programming skills.",
-      "highlights": ["Understanding the student","Creating a learning plan","Teach programming concept","Guiding practice","Providing feedback"]
+      "summary": "Tutor Pemrograman privat. Bertindak sebagai mentor pribadi, membantu siswa menguasai skill pemrograman.",
+      "highlights": ["Memahami siswa","Membuat rencana pembelajaran","Mengajarkan konsep pemrograman","Membimbing praktek","Memberikan masukan dan penilaian"]
     },
             {
       "name": "Kementrian Pekerjaan Umum dan Perumahan Rakyat",
