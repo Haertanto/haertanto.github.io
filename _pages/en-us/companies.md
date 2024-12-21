@@ -16,7 +16,7 @@ companies:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> </p>
-  - align: left
+  - align: right
     image: logo_sydeco.jpeg
     content: p_sydeco.md
     image_circular: false # crops the image to make it circular
@@ -28,4 +28,9 @@ companies:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> </p>
+  - align: right
+    image: logo_kahe.jpeg
+    content: p_kahe.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---
