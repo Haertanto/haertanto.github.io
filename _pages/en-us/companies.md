@@ -29,7 +29,7 @@ companies:
     more_info: >
       <p> </p>
   - align: right
-    image: logo_kahe.jpeg
+    image: logo_kahe.png
     content: p_kahe.md
     image_circular: false # crops the image to make it circular
     more_info: >
