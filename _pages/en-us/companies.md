@@ -3,7 +3,7 @@ page_id: companies
 layout: companies
 permalink: /partners/
 title: partners
-description: Awesome Company
+description: Several **Awesome** Company
 nav: true
 nav_order: 7
 
