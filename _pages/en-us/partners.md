@@ -3,7 +3,7 @@ page_id: partners
 layout: partners
 permalink: /partners/
 title: partners
-description: members of the lab or group
+description: Awesome Company
 nav: true
 nav_order: 7
 
