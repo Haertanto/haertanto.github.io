@@ -24,4 +24,10 @@ companies:
     more_info: >
       <p>Mlandangan, Jl. Gabus Raya No.21, Kec. Ngaglik</p>
       <p>Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581</p>
+  - align: right
+    image: logo_asa.jpeg
+    content: p_asa.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Batam</p>
 ---
