@@ -45,6 +45,16 @@
     }
   ],
   "work": [
+                  {
+      "name": "Several **Awesome** Company",
+      "position": "Digital Marketing Specialist",
+      "location": "Lumajang, Indonesia",
+      "url": "https://haertanto.github.io/partners/",
+      "startDate": "2024-12",
+      "endDate": "now",
+      "summary": "Responsible for develope and execute comprehensive digital marketing strategies to drive brand awareness, generate leads, and increase sales.",
+      "highlights": ["in-depth market research","Optimize website content","Manage paid advertising campaigns","Create engaging content"]
+    },
                 {
       "name": "Self Employed",
       "position": "Freelance Web Developer",
