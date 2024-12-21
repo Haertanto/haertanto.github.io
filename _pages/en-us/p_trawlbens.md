@@ -1,1 +1,1 @@
-Troben **(PT. TrawLbens Teknologi Anak Indonesia)** is a full-service logistics company providing services from cargo shipping to truck rentals, all accessible through our app.
+Troben **(PT. TrawLbens Teknologi Anak Indonesia)** is a full-service `logistics company` providing services from cargo shipping to truck rentals, all accessible through our app. *Jakarta, Indonesia*
