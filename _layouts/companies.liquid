@@ -1,0 +1,36 @@
+---
+layout: page
+---
+<div class="post">
+  <article>
+    {% if page.companies %}
+      {% for company in page.companies %}
+        <hr>
+        <div class="company float-{% if company.align == 'left' %}left{% else %}right{% endif %}">
+          {% if company.image %}
+            {% assign company_image_path = company.image | prepend: 'assets/img/' %}
+            {% if company.image_circular %}
+              {% assign company_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+            {% else %}
+              {% assign company_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% endif %}
+            {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+            {% include figure.liquid loading="eager" path=company_image_path class=company_image_class sizes=sizes alt=company.image %}
+          {% endif %}
+          {% if company.more_info %}
+            <div class="more-info">{{ company.more_info }}</div>
+          {% endif %}
+        </div>
+
+        <div class="clearfix">
+          {% if company.content %}
+            {% capture company_content %}{% include_relative {{ company.content }} %}{% endcapture %}
+            {{ company_content | markdownify }}
+          {% else %}
+            {{ content }}
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endif %}
+  </article>
+</div>
