@@ -272,16 +272,16 @@
       "name": "Dapur Nusantara Blog",
       "summary": "Learn to cook like a local with Dapur Nusantara. This website offers step-by-step instructions, helpful tips, and beautiful food photography to guide you through the process of preparing your favorite Indonesian dishes.",
       "highlights": ["Web Development", "Responsive Web Design", "SEO", "Hugo Static Web"],
-      "startDate": "2020-11-01",
-      "endDate": "2020-11-20",
+      "startDate": "2022-11-01",
+      "endDate": "2022-11-20",
       "url": "https://dapurnusantara.web.app/"
     },
     {
       "name": "My Personal Blog and Portofolio",
       "summary": "A personal website showcasing my thoughts, projects, and experiences. Explore my blog posts, view my portfolio, and get to know me better.",
       "highlights": ["Web Development", "Responsive Web Design", "Jekyyl Static Web"],
-      "startDate": "2018-10-01",
-      "endDate": "2018-11-13",
+      "startDate": "2024-10-01",
+      "endDate": "2024-11-13",
       "url": "https://haertanto.github.io/"
     }
   ],
