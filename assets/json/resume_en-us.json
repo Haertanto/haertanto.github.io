@@ -236,7 +236,6 @@
   ],
 
   "projects": [
-[
     {
       "name": "Intiland Tower Company Profile",
       "summary": "This Web showcase an Intiland Tower, Modern Landmark in Surabaya. Experience premium office space in a strategically located building, designed to elevate your business.",
@@ -245,7 +244,6 @@
       "endDate": "2015-02-06",
       "url": "https://intilandtower.com/surabaya/"
     },
-[
     {
       "name": "Asei Insurance Company Profile",
       "summary": "This web is Conpany Profile of Asei Indonesia. Asei Insurance is committed to providing innovative insurance solutions that empower businesses to thrive.",
@@ -278,7 +276,7 @@
       "endDate": "2020-11-20",
       "url": "https://dapurnusantara.web.app/"
     },
-      {
+    {
       "name": "My Personal Blog and Portofolio",
       "summary": "A personal website showcasing my thoughts, projects, and experiences. Explore my blog posts, view my portfolio, and get to know me better.",
       "highlights": ["Web Development", "Responsive Web Design", "Jekyyl Static Web"],
@@ -316,14 +314,14 @@
       "url": "https://drive.google.com/file/d/1YDVJbuHO7WgbfWkO3MDYTKOoBD-JYT-S/view?usp=sharing",
       "icon": "fa-solid fa-clipboard-check"
     },
-      {
+    {
       "name": "AI - Deep Learning",
       "date": "2024-12-07",
       "issuer": "Great Learning",
       "url": "https://drive.google.com/file/d/1O2IlXYYKtQ3IFC2eCluRQAHAcSZiuO5D/view?usp=sharing",
       "icon": "fa-solid fa-clipboard-check"
     },
-      {
+    {
       "name": "AI - Neural Network",
       "date": "2024-12-08",
       "issuer": "Great Learning",
