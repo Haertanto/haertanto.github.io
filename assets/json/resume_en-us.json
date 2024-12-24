@@ -238,7 +238,7 @@
   "projects": [
     {
       "name": "Intiland Tower Company Profile",
-      "summary": "This Web showcase an Intiland Tower, Modern Landmark in Surabaya. Experience premium office space in a strategically located building, designed to elevate your business.",
+      "summary": "This Web showcase an Intiland Tower Company Profile, Modern Landmark in Surabaya. Experience premium office space in a strategically located building, designed to elevate your business.",
       "highlights": ["Web Development", "Responsive Web Design", "Company Profile"],
       "startDate": "2015-01-05",
       "endDate": "2015-02-06",
@@ -246,7 +246,7 @@
     },
     {
       "name": "Asei Insurance Company Profile",
-      "summary": "This web is Conpany Profile of Asei Indonesia. Asei Insurance is committed to providing innovative insurance solutions that empower businesses to thrive.",
+      "summary": "This web is Company Profile of Asei Indonesia. Asei Insurance is committed to providing innovative insurance solutions that empower businesses to thrive.",
       "highlights": ["Web Development", "Responsive Web Design", "Company Profile"],
       "startDate": "2016-07-01",
       "endDate": "2016-08-30",
@@ -254,7 +254,7 @@
     },
     {
       "name": "Jokotole Collection Website",
-      "summary": "Jokotole Collection is a dynamic e-commerce platform that showcases the beauty and artistry of traditional Indonesian batik, with a particular focus on Madura's unique batik designs. This website serves as both a digital storefront and a comprehensive online representation of company's commitment to preserving cultural heritage while empowering local artisans.",
+      "summary": "This website serves as both a digital storefront and a comprehensive online representation of Jokotole Collection's commitment to preserving cultural heritage while empowering local artisans.",
       "highlights": ["Web Development", "Responsive Web Design", "Ecommerce"],
       "startDate": "2018-04-05",
       "endDate": "2018-05-06",
@@ -262,7 +262,7 @@
     },
     {
       "name": "AbdiskomWEB SEO Blog",
-      "summary": "Abdiskomweb is a live demonstration of how I apply our SEO expertise to create high-performing websites. This site serves as a portfolio, showcasing my ability to optimize content, technical elements, and user experience to rank higher in search engine results. Every element of this website, from the page titles and meta descriptions to the internal linking structure, has been carefully crafted to adhere to SEO best practices.",
+      "summary": "Abdiskomweb is a live demonstration of how I apply our SEO expertise to create high-performing websites. Every element of this website, from the page titles, content, and meta descriptions to the internal linking structure, has been carefully crafted to adhere to SEO best practices.",
       "highlights": ["Web Development", "Responsive Web Design", "SEO"],
       "startDate": "2018-10-01",
       "endDate": "2018-11-13",
@@ -270,16 +270,16 @@
     },
     {
       "name": "Dapur Nusantara Blog",
-      "summary": "Learn to cook like a local with Dapur Nusantara. This website offers step-by-step instructions, helpful tips, and beautiful food photography to guide you through the process of preparing your favorite Indonesian dishes.",
-      "highlights": ["Web Development", "Responsive Web Design", "SEO", "Hugo Static Web"],
+      "summary": "Learn to cook like a local with Dapur Nusantara. This website offers step-by-step instructions, helpful tips, and beautiful food photography to guide you through the process of preparing your favorite Indonesian dishes. Build carefully using Hugo",
+      "highlights": ["Web Development", "Responsive Web Design", "SEO", "Static Web"],
       "startDate": "2022-11-01",
       "endDate": "2022-11-20",
       "url": "https://dapurnusantara.web.app/"
     },
     {
       "name": "My Personal Blog and Portofolio",
-      "summary": "A personal website showcasing my thoughts, projects, and experiences. Explore my blog posts, view my portfolio, and get to know me better.",
-      "highlights": ["Web Development", "Responsive Web Design", "Jekyyl Static Web"],
+      "summary": "A personal website showcasing my thoughts, projects, and experiences. Explore my blog posts, view my portfolio, and get to know me better. Generated with Jekyll featuring multi language al folio theme.",
+      "highlights": ["Web Development", "Responsive Web Design","SEO","Static Web"],
       "startDate": "2024-10-01",
       "endDate": "2024-11-13",
       "url": "https://haertanto.github.io/"
