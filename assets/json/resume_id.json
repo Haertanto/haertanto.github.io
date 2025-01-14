@@ -307,6 +307,13 @@
   ],
   "certificates": [
      {
+      "name": "Technical SEO course with Bastian Grimm",
+      "date": "2024-12-23", 
+      "issuer": "Semrush Academy",
+      "url": "https://drive.google.com/file/d/1DpmB8S78Gv8_LioP4ZE21JI5EeFJ997j/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+     {
       "name": "Programming Basic Course",
       "date": "2024-12-22", 
       "issuer": "Great Learning",
