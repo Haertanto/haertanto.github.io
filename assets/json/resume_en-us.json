@@ -45,16 +45,6 @@
     }
   ],
   "work": [
-                  {
-      "name": "Several **Awesome** Company",
-      "position": "Digital Marketing Specialist",
-      "location": "Lumajang, Indonesia",
-      "url": "https://haertanto.github.io/partners/",
-      "startDate": "2024-12",
-      "endDate": "now",
-      "summary": "Responsible for develop and execute comprehensive digital marketing strategies to drive brand awareness, generate leads, and increase sales.",
-      "highlights": ["In-depth market research","Optimize website content","Manage paid advertising campaigns","Create engaging content"]
-    },
                 {
       "name": "Self Employed",
       "position": "Freelance Web Developer",
@@ -64,6 +54,36 @@
       "endDate": "now",
       "summary": "Responsible for the entire lifecycle of a website app, from conception to completion. Able to work independently, manage time effectively, and deliver high-quality work for clients.",
       "highlights": ["Web Development","Programming","Report Writing"]
+    },
+                  {
+      "name": "Ruang Riset",
+      "position": "Web Developer Trainer",
+      "location": "Lumajang, Indonesia",
+      "url": "https://ruangriset.id/",
+      "startDate": "2025-01",
+      "endDate": "now",
+      "summary": "A quantitative research specialist to serve as a thesis mentor for students",
+      "highlights": ["Assist statistical method","Help refine research","Data analysis feedback"]
+    },
+                  {
+      "name": "Flashcom Indonesia",
+      "position": "Web Developer Trainer",
+      "location": "Lumajang, Indonesia",
+      "url": "https://flashcomindonesia.com/",
+      "startDate": "2024-12",
+      "endDate": "now",
+      "summary": "Delivers comprehensive training programs to equip individuals with the skills and knowledge necessary to excel in web development.",
+      "highlights": ["Create and maintain course","Assessment","Stay up-to-date"]
+    },
+                  {
+      "name": "Several **Awesome** Company",
+      "position": "Digital Marketing Specialist",
+      "location": "Lumajang, Indonesia",
+      "url": "https://haertanto.github.io/partners/",
+      "startDate": "2024-12",
+      "endDate": "now",
+      "summary": "Responsible for develop and execute comprehensive digital marketing strategies to drive brand awareness, generate leads, and increase sales.",
+      "highlights": ["In-depth market research","Optimize website content","Manage paid advertising campaigns","Create engaging content"]
     },
               {
       "name": "LBB Pointer",
