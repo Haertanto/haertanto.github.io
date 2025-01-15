@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: IT Consultant . Programmer . Tutor 
+subtitle: IT Consultant . Programmer . Tutor . Digital Marketer 
 
 profile:
   align: right
