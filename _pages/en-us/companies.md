@@ -11,6 +11,12 @@ companies:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
+    image: logo_comissionful.png
+    content: p_comissionful.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> </p>
+  - align: right
     image: logo_atenge.jpeg
     content: p_atenge.md
     image_circular: false # crops the image to make it circular
