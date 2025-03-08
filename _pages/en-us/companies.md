@@ -10,6 +10,37 @@ nav_order: 7
 companies:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+``
+  - align: right
+    image: logo_redseller.png
+    content: p_redseller.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> </p>
+  - align: right
+    image: logo_ptflowbyte.png
+    content: p_ptflowbyte.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> </p>
+  - align: right
+    image: logo_cvtirta.png
+    content: p_cvtirta.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> </p>
+  - align: right
+    image: logo_beone.png
+    content: p_beone.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> </p>
+  - align: right
+    image: logo_karuna.jpg
+    content: p_karuna.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> </p>
   - align: right
     image: logo_comissionful.png
     content: p_comissionful.md
