@@ -1,1 +1,1 @@
-**Commissionful** Commissionful `connects B2B companies` with a network of referral partners who source potential client introductions from their networks. This allows B2B companies to save money by not hiring full-time sales associates while still generating warm leads. *Cilandak Barat, Jakarta Selatan, Indonesia*.
+**RedDoorz** Official reseller program from RedDoorz to market RedDoorz hotel rooms through the RedSeller application. *Jakarta Selatan, Indonesia*.
