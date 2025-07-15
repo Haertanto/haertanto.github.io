@@ -22,28 +22,7 @@
       }
     ]
   },
-    "education": [
-    {
-      "institution": "Universitas Trunojoyo Madura",
-      "location": "Bangkalan, Indonesia",
-      "url": "http://teknik.trunojoyo.ac.id/",
-      "area": "Fakultas Teknik",
-      "studyType": "S1 Sarjana Komputer (S.Kom.)",
-      "startDate": "2008-08",
-      "endDate": "2015-08",
-      "score": "3.03",
-      "courses": ["Computer Science/Informatics (Teknik Informatika)"]
-    }
-  ],
-  "publications": [
-    {
-      "name": "RANCANG BANGUN MANAJEMEN KONTEN PADA PEMBELAJARAN PENERAPAN JARINGAN KOMPUTER DESIGN ON LEARNING CONTENT MANAGEMENT APPLICATION OF COMPUTER NETWORK",
-      "publisher": "Universitas Trunojoyo Madura",
-      "releaseDate": "2015-07-29",
-      "url": "https://library.trunojoyo.ac.id/elib/detil.php?id=7576&q=haertanto",
-      "summary": ""
-    }
-  ],
+
   "work": [
                 {
       "name": "Self Employed",
@@ -236,6 +215,28 @@
       "name": "Irfan Dzulkarnain A S.Kom.",
       "icon": "fa-solid fa-laptop",
       "reference": "Speaking as a facilitator at PUPR myself, I can confirm that Haertanto is a highly skilled and dedicated Field Facilitator in the construction and infrastructure sector. His expertise in project management, community engagement, and technical assistance has been instrumental in the successful implementation of BSPS infrastructure projects. He is a results-oriented individual who is committed to ensuring that projects are completed on time and within budget."
+    }
+  ],
+      "education": [
+    {
+      "institution": "Universitas Trunojoyo Madura",
+      "location": "Bangkalan, Indonesia",
+      "url": "http://teknik.trunojoyo.ac.id/",
+      "area": "Fakultas Teknik",
+      "studyType": "S1 Sarjana Komputer (S.Kom.)",
+      "startDate": "2008-08",
+      "endDate": "2015-08",
+      "score": "3.03",
+      "courses": ["Computer Science/Informatics (Teknik Informatika)"]
+    }
+  ],
+  "publications": [
+    {
+      "name": "RANCANG BANGUN MANAJEMEN KONTEN PADA PEMBELAJARAN PENERAPAN JARINGAN KOMPUTER DESIGN ON LEARNING CONTENT MANAGEMENT APPLICATION OF COMPUTER NETWORK",
+      "publisher": "Universitas Trunojoyo Madura",
+      "releaseDate": "2015-07-29",
+      "url": "https://library.trunojoyo.ac.id/elib/detil.php?id=7576&q=haertanto",
+      "summary": ""
     }
   ],
   "volunteer": [
