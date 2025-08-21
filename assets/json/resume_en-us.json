@@ -378,6 +378,20 @@
   ],
   "certificates": [
      {
+      "name": "Coding Camp 2025 powered by DBS Foundation",
+      "date": "2025-08-21", 
+      "issuer": "Dicoding Academy",
+      "url": "https://drive.google.com/file/d/1sv5eLd4m4WKQ93gOSU8ioAErVjSH2Q3Y/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+     {
+      "name": "Produktif dengan AI - 2025",
+      "date": "2025-07-21", 
+      "issuer": "Dicoding Academy",
+      "url": "https://drive.google.com/file/d/1vagV6XrpDLgbh-G3Qac0WCWXSBAB66s_/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+     {
       "name": "Technical SEO course with Bastian Grimm",
       "date": "2024-12-23", 
       "issuer": "Semrush Academy",
@@ -499,7 +513,7 @@
               {
       "name": "Belajar Pemrograman Dasar",
       "date": "2024-11-10",
-      "issuer": "Dicoding Indonesia",
+      "issuer": "Dicoding Academy",
       "url": "https://drive.google.com/file/d/1ZmNZUCtrdsMR7kL0hpIZS19ip1C8bj6b/view?usp=sharing",
       "icon": "fa-solid fa-clipboard-check"
     },
@@ -590,7 +604,7 @@
                 {
       "name": "ID Camp 2024 : Data Scientist",
       "date": "2024-11-17",
-      "issuer": "Dicoding Indonesia",
+      "issuer": "Dicoding Academy",
       "url": "https://drive.google.com/file/d/1YPFhg21nTXWYjOQ5TLS9ssHLva1WLuFh/view?usp=sharing",
       "icon": "fa-solid fa-clipboard-check"
     },
@@ -744,7 +758,7 @@
                 {
       "name": "Cloud Practitioner Essentials",
       "date": "2024-10-25",
-      "issuer": "Dicoding Indonesia",
+      "issuer": "Dicoding Academy",
       "url": "https://drive.google.com/file/d/1LnbggjlZC2tf5wREceDb7kGoYv8MK0kd/view?usp=sharing",
       "icon": "fa-solid fa-clipboard-check"
     },
