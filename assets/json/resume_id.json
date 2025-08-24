@@ -22,28 +22,6 @@
       }
     ]
   },
-    "education": [
-    {
-      "institution": "Universitas Trunojoyo Madura",
-      "location": "Bangkalan, Indonesia",
-      "url": "http://teknik.trunojoyo.ac.id/",
-      "area": "Fakultas Teknik",
-      "studyType": "S1 Sarjana Komputer (S.Kom.)",
-      "startDate": "2008-08",
-      "endDate": "2015-08",
-      "score": "3.03",
-      "courses": ["Teknik Informatika"]
-    }
-  ],
-  "publications": [
-    {
-      "name": "RANCANG BANGUN MANAJEMEN KONTEN PADA PEMBELAJARAN PENERAPAN JARINGAN KOMPUTER DESIGN ON LEARNING CONTENT MANAGEMENT APPLICATION OF COMPUTER NETWORK",
-      "publisher": "Universitas Trunojoyo Madura",
-      "releaseDate": "2015-07-29",
-      "url": "https://library.trunojoyo.ac.id/elib/detil.php?id=7576&q=haertanto",
-      "summary": ""
-    }
-  ],
   "work": [
                 {
       "name": "Self Employed",
@@ -236,6 +214,29 @@
       "name": "Irfan Dzulkarnain A S.Kom.",
       "icon": "fa-solid fa-laptop",
       "reference": "Sebagai fasilitator di PUPR, saya dapat mengonfirmasi bahwa Haertanto adalah seorang Fasilitator Lapangan yang sangat terampil dan berdedikasi di sektor konstruksi dan infrastruktur. Keahliannya dalam manajemen proyek, keterlibatan masyarakat, dan bantuan teknis sangat berperan dalam keberhasilan pelaksanaan proyek infrastruktur BSPS. Dia adalah seorang individu yang berorientasi pada hasil dan berkomitmen untuk memastikan bahwa proyek-proyek selesai tepat waktu dan sesuai anggaran."
+    }
+  ],
+
+    "education": [
+    {
+      "institution": "Universitas Trunojoyo Madura",
+      "location": "Bangkalan, Indonesia",
+      "url": "http://teknik.trunojoyo.ac.id/",
+      "area": "Fakultas Teknik",
+      "studyType": "S1 Sarjana Komputer (S.Kom.)",
+      "startDate": "2008-08",
+      "endDate": "2015-08",
+      "score": "3.03",
+      "courses": ["Teknik Informatika"]
+    }
+  ],
+  "publications": [
+    {
+      "name": "RANCANG BANGUN MANAJEMEN KONTEN PADA PEMBELAJARAN PENERAPAN JARINGAN KOMPUTER DESIGN ON LEARNING CONTENT MANAGEMENT APPLICATION OF COMPUTER NETWORK",
+      "publisher": "Universitas Trunojoyo Madura",
+      "releaseDate": "2015-07-29",
+      "url": "https://library.trunojoyo.ac.id/elib/detil.php?id=7576&q=haertanto",
+      "summary": ""
     }
   ],
   "volunteer": [
