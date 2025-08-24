@@ -378,6 +378,13 @@
   ],
   "certificates": [
      {
+      "name": "AWS Back-End Academy",
+      "date": "2025-08-23", 
+      "issuer": "Dicoding Academy",
+      "url": "https://drive.google.com/file/d/15nB-1nHWJPz1b6fHcHtlG1typq5fO_kc/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+     {
       "name": "Coding Camp 2025 powered by DBS Foundation",
       "date": "2025-08-21", 
       "issuer": "Dicoding Academy",
