@@ -378,6 +378,41 @@
   ],
   "certificates": [
      {
+      "name": "Pelatihan Nasional Teknik Prompt AI untuk Mendukung Pekerjaan Harian: Penulisan, Analisis dan Kreativitas",
+      "date": "2026-04-09", 
+      "issuer": "EDUKASA",
+      "url": "https://drive.google.com/file/d/1rH2emdOf6ACgE-hXMZMSxx7H10V1VQdX/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+     {
+      "name": "BELAJAR BARENG BIKIN AI WORKFLOW - N8N",
+      "date": "2026-03-08", 
+      "issuer": "Yorindo Communication",
+      "url": "https://drive.google.com/file/d/1reSzaYInaIHECS7ENJ6QHEMvanJUlI2E/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+     {
+      "name": "Diklat Nasional Panduan Praktis Mendesain Pembelajaran Mendalam",
+      "date": "2026-03-05", 
+      "issuer": "EDUKASA",
+      "url": "https://drive.google.com/file/d/1szBORWchAkQQXr7BDzLpplICg5Qz4z6g/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+     {
+      "name": "Pelatihan Nasional Pengenalan dan Pemanfaatan Artificial Intelligence (AI) di Era Digital",
+      "date": "2026-02-26", 
+      "issuer": "EDUKASA",
+      "url": "https://drive.google.com/file/d/1UhVFtuVoJsJlu5fH0OLgu1NHL2FwJF2R/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+     {
+      "name": "Ruijie Specialist Engineer",
+      "date": "2025-10-27", 
+      "issuer": "Ruijie Network",
+      "url": "https://drive.google.com/file/d/1fYD5JXF0SnfB6U0bI05JPAr074IuODCr/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+     {
       "name": "AWS Back-End Academy",
       "date": "2025-08-23", 
       "issuer": "Dicoding Academy",
