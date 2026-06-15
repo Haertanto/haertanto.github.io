@@ -50,7 +50,7 @@
       "location": "Lumajang, Indonesia",
       "url": "https://ionnetwork.co.id/",
       "startDate": "2025-05",
-      "endDate": "now",
+      "endDate": "2025-12",
       "summary": "Selling ION Network's high-speed internet and WiFi solutions to residential and business customers.",
       "highlights": ["identify and pursue new sales opportunities","Understand customer needs and provide tailored solution"]
     },
@@ -70,7 +70,7 @@
       "location": "Lumajang, Indonesia",
       "url": "https://rumahsiapkerja.com/",
       "startDate": "2025-02",
-      "endDate": "now",
+      "endDate": "2025-08",
       "summary": "Designing and delivering comprehensive training programs, providing hands-on coding experience, and mentoring students to build practical UI/UX web development skills.",
       "highlights": ["Deliver engaging training courses","Maintain high-quality training materials","Assess learners' knowledge","Stay up-to-date with the latest web development trends"]
     },
@@ -110,7 +110,7 @@
       "location": "Lumajang, Indonesia",
       "url": "https://ruangriset.id/",
       "startDate": "2025-01",
-      "endDate": "now",
+      "endDate": "2025-12",
       "summary": "A quantitative research specialist to serve as a thesis mentor for students",
       "highlights": ["Assist statistical method","Help refine research","Data analysis feedback"]
     },
@@ -120,7 +120,7 @@
       "location": "Lumajang, Indonesia",
       "url": "https://flashcomindonesia.com/",
       "startDate": "2024-12",
-      "endDate": "now",
+      "endDate": "2025-12",
       "summary": "Delivers comprehensive training programs to equip individuals with the skills and knowledge necessary to excel in web development.",
       "highlights": ["Create and maintain course","Assessment","Stay up-to-date"]
     },
@@ -130,7 +130,7 @@
       "location": "Lumajang, Indonesia",
       "url": "https://haertanto.github.io/partners/",
       "startDate": "2024-12",
-      "endDate": "now",
+      "endDate": "2025-12",
       "summary": "Responsible for develop and execute comprehensive digital marketing strategies to drive brand awareness, generate leads, and increase sales.",
       "highlights": ["In-depth market research","Optimize website content","Manage paid advertising campaigns","Create engaging content"]
     },
@@ -327,6 +327,27 @@
   ],
 
   "projects": [
+    {
+      "name": "AWS AI Academy 2026",
+      "date": "2026-06-12", 
+      "issuer": "Dicoding Academy",
+      "url": "https://drive.google.com/file/d/1GMknLBLW_SKW2FWX8QxH7LBdWxefFgeS/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Coding Camp 2026 powered by DBS Foundation",
+      "date": "2026-06-12", 
+      "issuer": "Dicoding Academy",
+      "url": "https://drive.google.com/file/d/1jz0AzrfLfP3mvyGfFfYF_5mOwpyNtWtz/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Microsoft Elevate Training Center",
+      "date": "2026-06-12", 
+      "issuer": "Dicoding Academy",
+      "url": "https://drive.google.com/file/d/1tWeZe7kNIPyAE3WU8FaocKNDC6ENKDCE/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
     {
       "name": "Intiland Tower Company Profile",
       "summary": "This Web showcase an Intiland Tower Company Profile, Modern Landmark in Surabaya. Experience premium office space in a strategically located building, designed to elevate your business.",
