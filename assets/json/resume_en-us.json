@@ -328,27 +328,6 @@
 
   "projects": [
     {
-      "name": "AWS AI Academy 2026",
-      "date": "2026-06-12", 
-      "issuer": "Dicoding Academy",
-      "url": "https://drive.google.com/file/d/1GMknLBLW_SKW2FWX8QxH7LBdWxefFgeS/view?usp=sharing",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Coding Camp 2026 powered by DBS Foundation",
-      "date": "2026-06-12", 
-      "issuer": "Dicoding Academy",
-      "url": "https://drive.google.com/file/d/1jz0AzrfLfP3mvyGfFfYF_5mOwpyNtWtz/view?usp=sharing",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
-      "name": "Microsoft Elevate Training Center",
-      "date": "2026-06-12", 
-      "issuer": "Dicoding Academy",
-      "url": "https://drive.google.com/file/d/1tWeZe7kNIPyAE3WU8FaocKNDC6ENKDCE/view?usp=sharing",
-      "icon": "fa-solid fa-clipboard-check"
-    },
-    {
       "name": "Intiland Tower Company Profile",
       "summary": "This Web showcase an Intiland Tower Company Profile, Modern Landmark in Surabaya. Experience premium office space in a strategically located building, designed to elevate your business.",
       "highlights": ["Web Development", "Responsive Web Design", "Company Profile"],
@@ -398,6 +377,27 @@
     }
   ],
   "certificates": [
+    {
+      "name": "AWS AI Academy 2026",
+      "date": "2026-06-12", 
+      "issuer": "Dicoding Academy",
+      "url": "https://drive.google.com/file/d/1GMknLBLW_SKW2FWX8QxH7LBdWxefFgeS/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Coding Camp 2026 powered by DBS Foundation",
+      "date": "2026-06-12", 
+      "issuer": "Dicoding Academy",
+      "url": "https://drive.google.com/file/d/1jz0AzrfLfP3mvyGfFfYF_5mOwpyNtWtz/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Microsoft Elevate Training Center",
+      "date": "2026-06-12", 
+      "issuer": "Dicoding Academy",
+      "url": "https://drive.google.com/file/d/1tWeZe7kNIPyAE3WU8FaocKNDC6ENKDCE/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
      {
       "name": "Pelatihan Nasional Teknik Prompt AI untuk Mendukung Pekerjaan Harian: Penulisan, Analisis dan Kreativitas",
       "date": "2026-04-09", 
