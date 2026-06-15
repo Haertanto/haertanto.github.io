@@ -49,7 +49,7 @@
       "location": "Lumajang, Indonesia",
       "url": "https://ionnetwork.co.id/",
       "startDate": "2025-05",
-      "endDate": "now",
+      "endDate": "2025-12",
       "summary": "Menjual solusi internet berkecepatan tinggi dan WiFi dari ION Network kepada pelanggan residensial maupun bisnis.",
       "highlights": ["Mengidentifikasi dan mengejar peluang penjualan baru","Memahami kebutuhan pelanggan dan memberikan solusi yang sesuai"]
     },
@@ -69,7 +69,7 @@
       "location": "Lumajang, Indonesia",
       "url": "https://rumahsiapkerja.com/",
       "startDate": "2025-02",
-      "endDate": "now",
+      "endDate": "2025-08",
       "summary": "Merancang dan menyampaikan program pelatihan komprehensif, memberikan pengalaman langsung dalam coding, serta membimbing siswa untuk membangun keterampilan praktis dalam pengembangan web UI/UX.",
       "highlights": ["Menyampaikan kursus pelatihan yang menarik", "Menjaga kualitas materi pelatihan","Menilai pengetahuan peserta","Mengikuti tren terbaru dalam pengembangan web"]
     },
@@ -109,7 +109,7 @@
       "location": "Lumajang, Indonesia",
       "url": "https://ruangriset.id/",
       "startDate": "2025-01",
-      "endDate": "now",
+      "endDate": "2025-12",
       "summary": "Mentor spesialis pengolah data kuantitatif untuk pembimbingan penelitian/thesis mahasiswa.",
       "highlights": ["Membantu pemilihan metode statistik","Mempertajam penelitian","Penilaian hasil analisis data"]
     },
@@ -119,7 +119,7 @@
       "location": "Lumajang, Indonesia",
       "url": "https://flashcomindonesia.com/",
       "startDate": "2024-12",
-      "endDate": "now",
+      "endDate": "2025-12",
       "summary": "Menyediakan pelatihan untuk membekali individu dengan berbagai skill yang penting untuk pembuatan website.",
       "highlights": ["Membuat dan mengatur materi kelas","Penilaian","Selalu update teknologi web terbaru"]
     },
@@ -129,7 +129,7 @@
       "location": "Lumajang, Indonesia",
       "url": "https://haertanto.github.io/partners/",
       "startDate": "2024-12",
-      "endDate": "now",
+      "endDate": "2025-12",
       "summary": "Bertanggung jawab membuat dan mengeksekusi strategi digital marketing untuk membangun kesadaran merek, menghasilkan calon pelanggan, dan meningkatkan penjualan produk.",
       "highlights": ["Pendalaman riset pasar","Optimasi konten Website","Manajemen pengiklanan berbayar","Membuat konten menarik"]
     },
@@ -377,6 +377,27 @@
     }
   ],
   "certificates": [
+    {
+      "name": "AWS AI Academy 2026",
+      "date": "2026-06-12", 
+      "issuer": "Dicoding Academy",
+      "url": "https://drive.google.com/file/d/1GMknLBLW_SKW2FWX8QxH7LBdWxefFgeS/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Coding Camp 2026 powered by DBS Foundation",
+      "date": "2026-06-12", 
+      "issuer": "Dicoding Academy",
+      "url": "https://drive.google.com/file/d/1jz0AzrfLfP3mvyGfFfYF_5mOwpyNtWtz/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Microsoft Elevate Training Center",
+      "date": "2026-06-12", 
+      "issuer": "Dicoding Academy",
+      "url": "https://drive.google.com/file/d/1tWeZe7kNIPyAE3WU8FaocKNDC6ENKDCE/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
      {
       "name": "Pelatihan Nasional Teknik Prompt AI untuk Mendukung Pekerjaan Harian: Penulisan, Analisis dan Kreativitas",
       "date": "2026-04-09", 
